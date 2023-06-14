@@ -7,4 +7,4 @@ Team Sunshijo Android Repository
 - **Remote** : `Retrofit2`, `OkHttp3`
 - **DI** : `Hilt`
 - **Code** : `GitFlow`, `CI`, `GitKraken`, `Github`
-- **Architecture** : `MVVM' 'CleanArchitecture'
+- **Architecture** : `CleanArchitecture`, `MVVM` -> `MultiModule`
